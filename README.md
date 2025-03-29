@@ -1,16 +1,38 @@
-## Hi there 👋
+# Cześć, jestem Szymon 👋
 
-<!--
-**szyxmv/szyxmv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# O mnie
+Jestem Szymon (aka szyxmv), programista z Berlina, Niemcy. Mam 25 lat i uwielbiam zgłębiać świat programowania. Moim głównym zainteresowaniem jest język **JAVA**, lecz interesuje sie również innymi typu JavaScript,Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Tech Stack 💻
+Java - Tworzę pluginy/mody, do gry minecraft
+
+Node.js - Tworzę aplikacje, na platformie Discord.
+
+Python - Używam, do robienia backend'u w moich aplikacjach webowych (Django/Flask).
+
+React - Tworzę strony internetowe, które są aktualnie średnie. Cały czas, uczę się tego frameworka.
+
+Tailwind CSS - Używam do KAŻDEJ mojej strony.
+
+# Co wykorzystuje?
+
+Webstorm - Popularne IDE, do pisania w JavaScript/TypeScript. Wykorzystuję do pisania w JS'IE, ponieważ zbytnio nie potrafię TS'a.
+
+IntelIJ IDEA Ultimate - Wykorzystuje, do pisania w języku Java.
+
+Visual Studio Code - Wykorzystuję, do pisania zwykle aplikacji web'owych.
+
+Behance - Strona, przez którą tworzę swoje portfolio (Nieaktualne).
+
+WakaTime - Strona, przez którą moge widzieć swoje statystyki.
+
+# Kontakt 📩
+
+Skontaktuj się ze mną, na Discord! [Kliknij, aby napisać do mnie!](https://starmc.pl)
+
+Zobacz moje Portfolio! [Kliknij, aby wejść](https://starmc.pl)
+
+Mój serwer Discord! [Kliknij, aby wejsć](https://starmc.pl)
+
+Moje Statystyki! Kliknij, [aby zobaczyć](https://starmc.pl)
