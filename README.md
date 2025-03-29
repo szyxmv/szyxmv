@@ -26,6 +26,9 @@ Jestem **Szymon** (aka szyxmv), programista z Berlina, Niemcy. Mam 25 lat i uwie
 **Behance** - Strona, przez którą tworzę swoje portfolio (Nieaktualne).
 
 **WakaTime** - Strona, przez którą moge widzieć swoje statystyki.
+<html>
+<a href="https://wakatime.com/@39beabc1-8a54-42b3-9458-1fdc3ebd463a"><img src="https://wakatime.com/badge/user/39beabc1-8a54-42b3-9458-1fdc3ebd463a.svg" alt="Total time coded since Mar 29 2025" /></a>
+</html>
 
 # Kontakt 📩
 
