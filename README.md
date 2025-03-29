@@ -2,30 +2,30 @@
 
 
 # O mnie
-Jestem Szymon (aka szyxmv), programista z Berlina, Niemcy. Mam 25 lat i uwielbiam zgłębiać świat programowania. Moim głównym zainteresowaniem jest język **JAVA**, lecz interesuje sie również innymi typu JavaScript,Python
+Jestem **Szymon** (aka szyxmv), programista z Berlina, Niemcy. Mam 25 lat i uwielbiam zgłębiać świat programowania. Moim głównym zainteresowaniem jest język **JAVA**, lecz interesuje sie również innymi typu JavaScript,Python
 
 # Tech Stack 💻
-Java - Tworzę pluginy/mody, do gry minecraft
+**Java** - Tworzę pluginy/mody, do gry minecraft
 
-Node.js - Tworzę aplikacje, na platformie Discord.
+**Node.js** - Tworzę aplikacje, na platformie Discord.
 
-Python - Używam, do robienia backend'u w moich aplikacjach webowych (Django/Flask).
+**Python** - Używam, do robienia backend'u w moich aplikacjach webowych (Django/Flask).
 
-React - Tworzę strony internetowe, które są aktualnie średnie. Cały czas, uczę się tego frameworka.
+**React** - Tworzę strony internetowe, które są aktualnie średnie. Cały czas, uczę się tego frameworka.
 
-Tailwind CSS - Używam do KAŻDEJ mojej strony.
+**Tailwind CSS** - Używam do KAŻDEJ mojej strony.
 
 # Co wykorzystuje?
 
-Webstorm - Popularne IDE, do pisania w JavaScript/TypeScript. Wykorzystuję do pisania w JS'IE, ponieważ zbytnio nie potrafię TS'a.
+**Webstorm** - Popularne IDE, do pisania w JavaScript/TypeScript. Wykorzystuję do pisania w JS'IE, ponieważ zbytnio nie potrafię TS'a.
 
-IntelIJ IDEA Ultimate - Wykorzystuje, do pisania w języku Java.
+**IntelIJ IDEA Ultimate** - Wykorzystuje, do pisania w języku Java.
 
-Visual Studio Code - Wykorzystuję, do pisania zwykle aplikacji web'owych.
+**Visual Studio Code** - Wykorzystuję, do pisania zwykle aplikacji web'owych.
 
-Behance - Strona, przez którą tworzę swoje portfolio (Nieaktualne).
+**Behance** - Strona, przez którą tworzę swoje portfolio (Nieaktualne).
 
-WakaTime - Strona, przez którą moge widzieć swoje statystyki.
+**WakaTime** - Strona, przez którą moge widzieć swoje statystyki.
 
 # Kontakt 📩
 
